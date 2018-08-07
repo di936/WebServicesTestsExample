@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Services.Config" GeneratedClassName="GitLab">
+  <Profiles />
+  <Settings>
+    <Setting Name="Url" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://gitlab.com/api/v4</Value>
+    </Setting>
+    <Setting Name="ProjectsResource" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/projects</Value>
+    </Setting>
+    <Setting Name="UsersResource" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/users</Value>
+    </Setting>
+    <Setting Name="MembersResource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/members</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

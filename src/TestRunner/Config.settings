@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TestRunner" GeneratedClassName="Config">
+  <Profiles />
+  <Settings>
+    <Setting Name="Console" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\..\..\nunit\nunit3-console.exe</Value>
+    </Setting>
+    <Setting Name="Tests" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Framework.dll</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
